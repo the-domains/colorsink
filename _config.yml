@@ -1,0 +1,14 @@
+layout_spectrum: 0.4216661846730858
+typography_spectrum: 0.658549417508766
+color:
+  brandStrength: 0.570904555497691
+  lightness: 0.3699597013182938
+  saturation: 0.34368698578327894
+  rhythmicContrast: 0.5387041403446347
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: colorsINK
